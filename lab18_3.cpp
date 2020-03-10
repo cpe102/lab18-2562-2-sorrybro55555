@@ -7,7 +7,7 @@
 
 using namespace std;
 
-struct student{
+struct student{asdasd
 	//Define struct student with four member (name ,id , gender, gpa);
 };
 
